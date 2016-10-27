@@ -27,7 +27,6 @@ namespace AdamAsmaca
                 {
                     bilinmeyen[i] = " _ ";
                 }
-
                 do
                 {
                     EkranaBas(bilinmeyen, puan, hak);
